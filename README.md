@@ -48,3 +48,6 @@ i.	Frontend Framework Testing – VS Code.
 ii.	Database Testing – MySQL Workbench.
 
 In summary, "A PROFILE APPLICATION SYSTEM" revolutionizes profile management with its user-friendly interface and robust security measures. By integrating interactive features and ensuring scalability, our system delivers a seamless experience for users. It not only meets functional requirements but also excels in reliability and performance. Our project sets a new standard in hassle-free, secure profile management, offering a foundation for future user-centric applications.
+
+## Contributors
+- vsmp47
